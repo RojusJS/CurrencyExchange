@@ -52,7 +52,6 @@ function populateCurrencySelects() {
     const selects = [
         document.getElementById('fromCurrency'),
         document.getElementById('toCurrency'),
-        document.getElementById('baseCurrency'),
         document.getElementById('newFavorite')
     ];
     
@@ -70,7 +69,6 @@ function populateCurrencySelects() {
         
         if (index === 0) select.value = 'USD';
         if (index === 1) select.value = 'EUR';
-        if (index === 2) select.value = 'USD';
     });
 }
 
@@ -117,7 +115,6 @@ function swapCurrencies() {
 }
 
 async function getExchangeRates() {
-    const baseCurrency = document.getElementById('baseCurrency').value;
     const ratesList = document.getElementById('ratesList');
     const loadingDiv = document.getElementById('ratesLoading');
     
@@ -125,29 +122,26 @@ async function getExchangeRates() {
     ratesList.innerHTML = '';
     
     try {
-        const response = await fetch(`/api/rates?baseCurrency=${baseCurrency}`);
+        const response = await fetch('/api/rates');
         if (!response.ok) throw new Error('Failed to load rates');
         
         const data = await response.json();
         
         loadingDiv.style.display = 'none';
         
-        const majorCurrencies = ['USD', 'EUR', 'GBP', 'JPY', 'AUD', 'CAD', 'CHF', 'CNY', 'HKD', 'NZD', 'SEK', 'KRW', 'SGD', 'NOK', 'MXN', 'INR', 'RUB', 'ZAR', 'TRY', 'BRL'];
-        
-        const displayCurrencies = majorCurrencies
-            .filter(code => code !== baseCurrency && data.rates[code])
-            .slice(0, 15);
-        
-        displayCurrencies.forEach(code => {
-            const rate = data.rates[code];
-            const rateItem = document.createElement('div');
-            rateItem.className = 'rate-item';
-            rateItem.innerHTML = `
-                <span>${code}</span>
-                <span>${rate.toFixed(4)}</span>
-            `;
-            ratesList.appendChild(rateItem);
-        });
+        Object.entries(data.rates)
+            .sort((a, b) => a[0].localeCompare(b[0]))
+            .forEach(([code, rate]) => {
+                if (code !== 'EUR') {
+                    const rateItem = document.createElement('div');
+                    rateItem.className = 'rate-item';
+                    rateItem.innerHTML = `
+                        <span>${code}</span>
+                        <span>${rate.toFixed(4)}</span>
+                    `;
+                    ratesList.appendChild(rateItem);
+                }
+            });
     } catch (error) {
         console.error('Error loading rates:', error);
         loadingDiv.style.display = 'none';

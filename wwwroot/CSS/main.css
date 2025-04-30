@@ -129,6 +129,18 @@ input, select {
     display: none;
 }
 
+.refresh-btn {
+    margin-top: 1rem;
+    width: auto;
+    align-self: center;
+}
+
+.rates-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
 .rate-info {
     color: #666;
     font-size: 0.9rem;
@@ -142,9 +154,9 @@ input, select {
 }
 
 .rates-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 1rem;
+    max-height: 400px;
+    overflow-y: auto;
+    margin-bottom: 1rem;
 }
 
 .rate-item {
@@ -191,6 +203,12 @@ input, select {
     text-align: center;
     padding: 1rem;
     color: #666;
+}
+
+@media only screen and (min-width: 768px) {
+    .rates-list {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
 }
 
 @media only screen and (min-width: 768px) {

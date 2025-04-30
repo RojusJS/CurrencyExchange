@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2Aj1cDzMl4VUaRGxxkxkddY4ZLkvdO/VqMQFIBk6TRY=",
+  "Hash": "836HUwruP8N+7oksJeiC24rf4tzEpX7uVaSJ86DEnQ0=",
   "Source": "CurrencyExchange2",
   "BasePath": "_content/CurrencyExchange2",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-ufcs2ybhy9.gz",
+      "Identity": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-fej25v24ku.gz",
       "SourceId": "CurrencyExchange2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CurrencyExchange2",
-      "RelativePath": "JS/main#[.{fingerprint=ufcs2ybhy9}]?.js.gz",
+      "RelativePath": "JS/main#[.{fingerprint=fej25v24ku}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\JS\\main.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "64k6bcc45w",
-      "Integrity": "qvne4Hq/+W3ovwgrFEUx1RaozSrRvvTcCB30YrNbzDk=",
+      "Fingerprint": "xeeeodnxt2",
+      "Integrity": "eVzhIUGip7hh0+L8rr+Gl5p0ojnx0dF5iVJxDJHcpy8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\JS\\main.js"
@@ -80,12 +80,12 @@
       "OriginalItemSpec": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\login.html"
     },
     {
-      "Identity": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-qfkv1kvs0m.gz",
+      "Identity": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-sygndlq2u5.gz",
       "SourceId": "CurrencyExchange2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CurrencyExchange2",
-      "RelativePath": "index#[.{fingerprint=qfkv1kvs0m}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=sygndlq2u5}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,8 +94,8 @@
       "RelatedAsset": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1je1fruv19",
-      "Integrity": "M6X8dkc8V2f7bWDqL+jiXRjaec8V3OWzu5iLbhjByj0=",
+      "Fingerprint": "l9i6ym4nuq",
+      "Integrity": "B+Tv/Aq5cV+NTLlhNKRf34kh7ORevBlnERjGJ48JjEs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\index.html"
@@ -122,12 +122,12 @@
       "OriginalItemSpec": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\JS\\login.js"
     },
     {
-      "Identity": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-5f8uhki0ay.gz",
+      "Identity": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-sdp0ke6iyz.gz",
       "SourceId": "CurrencyExchange2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CurrencyExchange2",
-      "RelativePath": "CSS/main#[.{fingerprint=5f8uhki0ay}]?.css.gz",
+      "RelativePath": "CSS/main#[.{fingerprint=sdp0ke6iyz}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -136,8 +136,8 @@
       "RelatedAsset": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\CSS\\main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9c3rolznr2",
-      "Integrity": "VzrsIlr3oXW3IEiq18X2QmdBZxxgR4uXfadpREf+NG0=",
+      "Fingerprint": "nlguekxw7l",
+      "Integrity": "i10VRqvRJYtiDfmB+MlRj7iaCvDFCPExKNHFCSdEevU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\CSS\\main.css"
@@ -178,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5f8uhki0ay",
-      "Integrity": "ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4=",
+      "Fingerprint": "sdp0ke6iyz",
+      "Integrity": "gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\CSS\\main.css"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qfkv1kvs0m",
-      "Integrity": "Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU=",
+      "Fingerprint": "sygndlq2u5",
+      "Integrity": "XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ufcs2ybhy9",
-      "Integrity": "+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0=",
+      "Fingerprint": "fej25v24ku",
+      "Integrity": "SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\JS\\main.js"
@@ -569,13 +569,13 @@
       ]
     },
     {
-      "Route": "CSS/main.5f8uhki0ay.css",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-5f8uhki0ay.gz",
+      "Route": "CSS/main.css",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-sdp0ke6iyz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000882612533"
+          "Quality": "0.000846023689"
         }
       ],
       "ResponseHeaders": [
@@ -585,19 +585,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1132"
+          "Value": "1181"
         },
         {
           "Name": "ETag",
-          "Value": "\"VzrsIlr3oXW3IEiq18X2QmdBZxxgR4uXfadpREf+NG0=\""
+          "Value": "\"i10VRqvRJYtiDfmB+MlRj7iaCvDFCPExKNHFCSdEevU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:18:09 GMT"
+          "Value": "Wed, 30 Apr 2025 13:53:20 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -613,26 +613,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4=\""
+          "Value": "W/\"gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "5f8uhki0ay"
-        },
-        {
-          "Name": "label",
-          "Value": "CSS/main.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4="
+          "Value": "sha256-gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho="
         }
       ]
     },
     {
-      "Route": "CSS/main.5f8uhki0ay.css",
+      "Route": "CSS/main.css",
       "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\CSS\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -642,7 +634,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4308"
+          "Value": "4588"
         },
         {
           "Name": "Content-Type",
@@ -650,11 +642,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4=\""
+          "Value": "\"gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:18:09 GMT"
+          "Value": "Wed, 30 Apr 2025 13:53:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/main.css.gz",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-sdp0ke6iyz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i10VRqvRJYtiDfmB+MlRj7iaCvDFCPExKNHFCSdEevU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 13:53:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i10VRqvRJYtiDfmB+MlRj7iaCvDFCPExKNHFCSdEevU="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/main.sdp0ke6iyz.css",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-sdp0ke6iyz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000846023689"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1181"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i10VRqvRJYtiDfmB+MlRj7iaCvDFCPExKNHFCSdEevU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 13:53:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sdp0ke6iyz"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/main.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/main.sdp0ke6iyz.css",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\CSS\\main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4588"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 13:53:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -664,7 +801,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5f8uhki0ay"
+          "Value": "sdp0ke6iyz"
         },
         {
           "Name": "label",
@@ -672,13 +809,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4="
+          "Value": "sha256-gBOh/CKgeD3397YNWljgeQ1dW4S1XNZj1G6ad4yL8Ho="
         }
       ]
     },
     {
-      "Route": "CSS/main.5f8uhki0ay.css.gz",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-5f8uhki0ay.gz",
+      "Route": "CSS/main.sdp0ke6iyz.css.gz",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-sdp0ke6iyz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -687,7 +824,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1132"
+          "Value": "1181"
         },
         {
           "Name": "Content-Type",
@@ -695,11 +832,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VzrsIlr3oXW3IEiq18X2QmdBZxxgR4uXfadpREf+NG0=\""
+          "Value": "\"i10VRqvRJYtiDfmB+MlRj7iaCvDFCPExKNHFCSdEevU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:18:09 GMT"
+          "Value": "Wed, 30 Apr 2025 13:53:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -717,7 +854,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5f8uhki0ay"
+          "Value": "sdp0ke6iyz"
         },
         {
           "Name": "label",
@@ -725,155 +862,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VzrsIlr3oXW3IEiq18X2QmdBZxxgR4uXfadpREf+NG0="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/main.css",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-5f8uhki0ay.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000882612533"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1132"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VzrsIlr3oXW3IEiq18X2QmdBZxxgR4uXfadpREf+NG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/main.css",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\CSS\\main.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4308"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ISevUNQPN3dOTai2vYh9WpYZe70LHvcpVi5Xg81Q6F4="
-        }
-      ]
-    },
-    {
-      "Route": "CSS/main.css.gz",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\p29qdep0jm-5f8uhki0ay.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1132"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VzrsIlr3oXW3IEiq18X2QmdBZxxgR4uXfadpREf+NG0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VzrsIlr3oXW3IEiq18X2QmdBZxxgR4uXfadpREf+NG0="
+          "Value": "sha256-i10VRqvRJYtiDfmB+MlRj7iaCvDFCPExKNHFCSdEevU="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-qfkv1kvs0m.gz",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-sygndlq2u5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001218026797"
+          "Quality": "0.001248439451"
         }
       ],
       "ResponseHeaders": [
@@ -883,15 +883,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "820"
+          "Value": "800"
         },
         {
           "Name": "ETag",
-          "Value": "\"M6X8dkc8V2f7bWDqL+jiXRjaec8V3OWzu5iLbhjByj0=\""
+          "Value": "\"B+Tv/Aq5cV+NTLlhNKRf34kh7ORevBlnERjGJ48JjEs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:46:13 GMT"
+          "Value": "Wed, 30 Apr 2025 13:48:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -911,13 +911,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU=\""
+          "Value": "W/\"XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU="
+          "Value": "sha256-XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g="
         }
       ]
     },
@@ -932,7 +932,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3104"
+          "Value": "2867"
         },
         {
           "Name": "Content-Type",
@@ -940,11 +940,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU=\""
+          "Value": "\"XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:46:13 GMT"
+          "Value": "Wed, 30 Apr 2025 13:48:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -954,13 +954,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU="
+          "Value": "sha256-XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-qfkv1kvs0m.gz",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-sygndlq2u5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -969,7 +969,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "820"
+          "Value": "800"
         },
         {
           "Name": "Content-Type",
@@ -977,11 +977,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M6X8dkc8V2f7bWDqL+jiXRjaec8V3OWzu5iLbhjByj0=\""
+          "Value": "\"B+Tv/Aq5cV+NTLlhNKRf34kh7ORevBlnERjGJ48JjEs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:46:13 GMT"
+          "Value": "Wed, 30 Apr 2025 13:48:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -999,18 +999,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M6X8dkc8V2f7bWDqL+jiXRjaec8V3OWzu5iLbhjByj0="
+          "Value": "sha256-B+Tv/Aq5cV+NTLlhNKRf34kh7ORevBlnERjGJ48JjEs="
         }
       ]
     },
     {
-      "Route": "index.qfkv1kvs0m.html",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-qfkv1kvs0m.gz",
+      "Route": "index.sygndlq2u5.html",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-sygndlq2u5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001218026797"
+          "Quality": "0.001248439451"
         }
       ],
       "ResponseHeaders": [
@@ -1020,15 +1020,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "820"
+          "Value": "800"
         },
         {
           "Name": "ETag",
-          "Value": "\"M6X8dkc8V2f7bWDqL+jiXRjaec8V3OWzu5iLbhjByj0=\""
+          "Value": "\"B+Tv/Aq5cV+NTLlhNKRf34kh7ORevBlnERjGJ48JjEs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:46:13 GMT"
+          "Value": "Wed, 30 Apr 2025 13:48:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1048,13 +1048,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU=\""
+          "Value": "W/\"XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qfkv1kvs0m"
+          "Value": "sygndlq2u5"
         },
         {
           "Name": "label",
@@ -1062,12 +1062,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU="
+          "Value": "sha256-XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g="
         }
       ]
     },
     {
-      "Route": "index.qfkv1kvs0m.html",
+      "Route": "index.sygndlq2u5.html",
       "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1077,7 +1077,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3104"
+          "Value": "2867"
         },
         {
           "Name": "Content-Type",
@@ -1085,11 +1085,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU=\""
+          "Value": "\"XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:46:13 GMT"
+          "Value": "Wed, 30 Apr 2025 13:48:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1099,7 +1099,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qfkv1kvs0m"
+          "Value": "sygndlq2u5"
         },
         {
           "Name": "label",
@@ -1107,13 +1107,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Nto+INo62Vtgbjt21f88nlMkL55LNY5qRc9+b5hpJmU="
+          "Value": "sha256-XInMhWaeduyqM9jT0CJmYIzOBXUPKs+eGBH/kwxgS3g="
         }
       ]
     },
     {
-      "Route": "index.qfkv1kvs0m.html.gz",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-qfkv1kvs0m.gz",
+      "Route": "index.sygndlq2u5.html.gz",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\a8l95tkkya-sygndlq2u5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1122,7 +1122,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "820"
+          "Value": "800"
         },
         {
           "Name": "Content-Type",
@@ -1130,11 +1130,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M6X8dkc8V2f7bWDqL+jiXRjaec8V3OWzu5iLbhjByj0=\""
+          "Value": "\"B+Tv/Aq5cV+NTLlhNKRf34kh7ORevBlnERjGJ48JjEs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 17:46:13 GMT"
+          "Value": "Wed, 30 Apr 2025 13:48:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1152,7 +1152,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qfkv1kvs0m"
+          "Value": "sygndlq2u5"
         },
         {
           "Name": "label",
@@ -1160,7 +1160,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-M6X8dkc8V2f7bWDqL+jiXRjaec8V3OWzu5iLbhjByj0="
+          "Value": "sha256-B+Tv/Aq5cV+NTLlhNKRf34kh7ORevBlnERjGJ48JjEs="
         }
       ]
     },
@@ -1463,13 +1463,13 @@
       ]
     },
     {
-      "Route": "JS/main.js",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-ufcs2ybhy9.gz",
+      "Route": "JS/main.fej25v24ku.js",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-fej25v24ku.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000549450549"
+          "Quality": "0.000592417062"
         }
       ],
       "ResponseHeaders": [
@@ -1479,19 +1479,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1819"
+          "Value": "1687"
         },
         {
           "Name": "ETag",
-          "Value": "\"qvne4Hq/+W3ovwgrFEUx1RaozSrRvvTcCB30YrNbzDk=\""
+          "Value": "\"eVzhIUGip7hh0+L8rr+Gl5p0ojnx0dF5iVJxDJHcpy8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:17:30 GMT"
+          "Value": "Wed, 30 Apr 2025 13:51:21 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -1507,18 +1507,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0=\""
+          "Value": "W/\"SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "fej25v24ku"
+        },
+        {
+          "Name": "label",
+          "Value": "JS/main.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0="
+          "Value": "sha256-SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU="
         }
       ]
     },
     {
-      "Route": "JS/main.js",
+      "Route": "JS/main.fej25v24ku.js",
       "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\JS\\main.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1528,7 +1536,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7857"
+          "Value": "7473"
         },
         {
           "Name": "Content-Type",
@@ -1536,121 +1544,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0=\""
+          "Value": "\"SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:17:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0="
-        }
-      ]
-    },
-    {
-      "Route": "JS/main.js.gz",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-ufcs2ybhy9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1819"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qvne4Hq/+W3ovwgrFEUx1RaozSrRvvTcCB30YrNbzDk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:17:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-qvne4Hq/+W3ovwgrFEUx1RaozSrRvvTcCB30YrNbzDk="
-        }
-      ]
-    },
-    {
-      "Route": "JS/main.ufcs2ybhy9.js",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-ufcs2ybhy9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000549450549"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1819"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qvne4Hq/+W3ovwgrFEUx1RaozSrRvvTcCB30YrNbzDk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:17:30 GMT"
+          "Value": "Wed, 30 Apr 2025 13:51:21 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ufcs2ybhy9"
+          "Value": "fej25v24ku"
         },
         {
           "Name": "label",
@@ -1658,13 +1566,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0="
+          "Value": "sha256-SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU="
         }
       ]
     },
     {
-      "Route": "JS/main.ufcs2ybhy9.js",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\JS\\main.js",
+      "Route": "JS/main.fej25v24ku.js.gz",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-fej25v24ku.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +1581,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7857"
+          "Value": "1687"
         },
         {
           "Name": "Content-Type",
@@ -1681,56 +1589,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0=\""
+          "Value": "\"eVzhIUGip7hh0+L8rr+Gl5p0ojnx0dF5iVJxDJHcpy8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:17:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ufcs2ybhy9"
-        },
-        {
-          "Name": "label",
-          "Value": "JS/main.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+iePGSMiXooi+Nju0gl/ZlgykYhbipd5KARikyupCY0="
-        }
-      ]
-    },
-    {
-      "Route": "JS/main.ufcs2ybhy9.js.gz",
-      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-ufcs2ybhy9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1819"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qvne4Hq/+W3ovwgrFEUx1RaozSrRvvTcCB30YrNbzDk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 06:17:30 GMT"
+          "Value": "Wed, 30 Apr 2025 13:51:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1748,7 +1611,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ufcs2ybhy9"
+          "Value": "fej25v24ku"
         },
         {
           "Name": "label",
@@ -1756,7 +1619,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qvne4Hq/+W3ovwgrFEUx1RaozSrRvvTcCB30YrNbzDk="
+          "Value": "sha256-eVzhIUGip7hh0+L8rr+Gl5p0ojnx0dF5iVJxDJHcpy8="
+        }
+      ]
+    },
+    {
+      "Route": "JS/main.js",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-fej25v24ku.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000592417062"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1687"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eVzhIUGip7hh0+L8rr+Gl5p0ojnx0dF5iVJxDJHcpy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 13:51:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU="
+        }
+      ]
+    },
+    {
+      "Route": "JS/main.js",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\wwwroot\\JS\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 13:51:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SRDBBIkavCnEcpY1Wa471cEmddKWOErZCgo+fKYvDdU="
+        }
+      ]
+    },
+    {
+      "Route": "JS/main.js.gz",
+      "AssetFile": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\obj\\Debug\\net9.0\\compressed\\0f8blzeorq-fej25v24ku.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eVzhIUGip7hh0+L8rr+Gl5p0ojnx0dF5iVJxDJHcpy8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 13:51:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eVzhIUGip7hh0+L8rr+Gl5p0ojnx0dF5iVJxDJHcpy8="
         }
       ]
     },
