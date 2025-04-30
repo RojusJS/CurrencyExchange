@@ -19,7 +19,7 @@ builder.Services.AddCors(options =>
     });
 });
 
-var jwtKey = builder.Configuration["JWT:Key"] ?? "defaultDevelopmentKeyWith32Chars!!";
+var jwtKey = builder.Configuration["JWT:Key"] ?? "uDSGBHVIJUBIPSUDBVSHPDifhjsdklfjvcdpjcv";
 var key = Encoding.ASCII.GetBytes(jwtKey);
 builder.Services.AddAuthentication(options =>
 {
@@ -49,7 +49,6 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddSingleton<IUserService, UserService>();
 builder.Services.AddHttpClient<ICurrencyService, CurrencyService>();
-builder.Services.AddSingleton<IFavoriteService, FavoriteService>();
 
 var app = builder.Build();
 
