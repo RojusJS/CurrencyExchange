@@ -33,7 +33,7 @@ namespace CurrencyExchange.Services
         public string GenerateJwtToken(string username)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
-            var key = Encoding.ASCII.GetBytes(_configuration["JWT:Key"] ?? "defaultDevelopmentKeyWith32Chars!!");
+            var key = Encoding.ASCII.GetBytes(_configuration["JWT:Key"] ?? "uDSGBHVIJUBIPSUDBVSHPDifhjsdklfjvcdpjcv");
             
             var tokenDescriptor = new SecurityTokenDescriptor
             {

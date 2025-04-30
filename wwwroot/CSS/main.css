@@ -167,22 +167,6 @@ input, select {
     justify-content: space-between;
 }
 
-.favorites-list {
-    margin-bottom: 1rem;
-}
-
-.favorite-item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0.75rem;
-    border-bottom: 1px solid var(--border-color);
-}
-
-.favorite-item:last-child {
-    border-bottom: none;
-}
-
 .remove-btn {
     background-color: var(--error-color);
     padding: 0.4rem 0.6rem;
@@ -191,12 +175,6 @@ input, select {
 
 .remove-btn:hover {
     background-color: #c0392b;
-}
-
-.add-favorite {
-    display: flex;
-    gap: 1rem;
-    margin-top: 1rem;
 }
 
 .loading {
