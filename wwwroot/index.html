@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Exchange</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Currency Exchange</h1>
+            <button id="logoutBtn" onclick="logout()">Logout</button>
+        </div>
+    </header>
+    
+    <main>
+        <section id="converter" class="card">
+            <h2>Currency Converter</h2>
+            <div class="converter-form">
+                <div class="input-group">
+                    <label for="amount">Amount</label>
+                    <input type="number" id="amount" value="1" min="0.01" step="0.01">
+                </div>
+                
+                <div class="currency-selectors">
+                    <div class="input-group">
+                        <label for="fromCurrency">From</label>
+                        <select id="fromCurrency"></select>
+                    </div>
+                    
+                    <button id="swapBtn" class="icon-btn" onclick="swapCurrencies()">⇄</button>
+                    
+                    <div class="input-group">
+                        <label for="toCurrency">To</label>
+                        <select id="toCurrency"></select>
+                    </div>
+                </div>
+                
+                <button id="convertBtn" onclick="convertCurrency()">Convert</button>
+                
+                <div id="result" class="result hidden">
+                    <h3>Result</h3>
+                    <p id="conversionResult"></p>
+                    <p id="exchangeRate" class="rate-info"></p>
+                </div>
+            </div>
+        </section>
+        
+        <section id="rates" class="card">
+            <h2>Current Exchange Rates</h2>
+            <div class="rate-controls">
+                <div class="input-group">
+                    <label for="baseCurrency">Base Currency</label>
+                    <select id="baseCurrency"></select>
+                </div>
+                <button onclick="getExchangeRates()">Update Rates</button>
+            </div>
+            <div class="rates-container">
+                <div id="ratesLoading" class="loading">Loading rates...</div>
+                <div id="ratesList" class="rates-list"></div>
+            </div>
+        </section>
+        
+        <section id="favorites" class="card">
+            <h2>Favorite Currencies</h2>
+            <div class="favorites-container">
+                <div id="favoritesLoading" class="loading">Loading favorites...</div>
+                <div id="favoritesList" class="favorites-list"></div>
+                <div class="add-favorite">
+                    <select id="newFavorite"></select>
+                    <button onclick="addFavorite()">Add to Favorites</button>
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\appsettings.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\CurrencyExchange2.staticwebassets.endpoints.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\CurrencyExchange2.exe
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\CurrencyExchange2.deps.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\CurrencyExchange2.runtimeconfig.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\CurrencyExchange2.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\CurrencyExchange2.pdb
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.csproj.AssemblyReference.cache
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.AssemblyInfoInputs.cache
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.AssemblyInfo.cs
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.csproj.CoreCompileInputs.cache
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\scopedcss\bundle\CurrencyExchange2.styles.css
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets\msbuild.CurrencyExchange2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets\msbuild.CurrencyExchange2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets\msbuild.build.CurrencyExchange2.props
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CurrencyExchange2.props
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CurrencyExchange2.props
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\Currency.36C382F2.Up2Date
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\refint\CurrencyExchange2.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.pdb
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\CurrencyExchange2.genruntimeconfig.cache
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\ref\CurrencyExchange2.dll
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\bin\Debug\net9.0\CurrencyExchange2.staticwebassets.runtime.json
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\compressed\a8l95tkkya-qfkv1kvs0m.gz
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\compressed\4x94nda8j2-gr93nc9rlt.gz
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\compressed\3f9p9307oq-hijblcibgk.gz
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\compressed\p29qdep0jm-5f8uhki0ay.gz
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\compressed\mcwrp0p724-t6488hn3ch.gz
+C:\Users\rojau\Desktop\Web Server pvz\CurrencyExchange2\CurrencyExchange2\obj\Debug\net9.0\compressed\0f8blzeorq-ufcs2ybhy9.gz
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\appsettings.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange2.staticwebassets.endpoints.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange2.staticwebassets.runtime.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange2.exe
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange2.deps.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange2.runtimeconfig.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange2.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange2.pdb
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.csproj.AssemblyReference.cache
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.AssemblyInfoInputs.cache
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.AssemblyInfo.cs
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.csproj.CoreCompileInputs.cache
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.sourcelink.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\scopedcss\bundle\CurrencyExchange2.styles.css
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\compressed\3f9p9307oq-hijblcibgk.gz
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\compressed\p29qdep0jm-5f8uhki0ay.gz
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\compressed\a8l95tkkya-qfkv1kvs0m.gz
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\compressed\mcwrp0p724-t6488hn3ch.gz
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\compressed\0f8blzeorq-ufcs2ybhy9.gz
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\compressed\4x94nda8j2-gr93nc9rlt.gz
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets\msbuild.CurrencyExchange2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets\msbuild.CurrencyExchange2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets\msbuild.build.CurrencyExchange2.props
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CurrencyExchange2.props
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CurrencyExchange2.props
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\Currency.36C382F2.Up2Date
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\refint\CurrencyExchange2.dll
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.pdb
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange2.genruntimeconfig.cache
+C:\Users\rojau\Desktop\Git Currency\CurrencyExchange\obj\Debug\net9.0\ref\CurrencyExchange2.dll
