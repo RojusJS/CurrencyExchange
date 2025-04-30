@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qLcc6+43cUY=",
+  "dgSpecHash": "NMf3i1svU9c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rojau\\Desktop\\Web Server pvz\\CurrencyExchange2\\CurrencyExchange2\\CurrencyExchange2.csproj",
+  "projectFilePath": "C:\\Users\\rojau\\Desktop\\Git Currency\\CurrencyExchange\\CurrencyExchange2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rojau\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.4\\microsoft.aspnetcore.authentication.jwtbearer.9.0.4.nupkg.sha512",
     "C:\\Users\\rojau\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
