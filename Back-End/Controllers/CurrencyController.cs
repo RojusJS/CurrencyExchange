@@ -24,22 +24,17 @@ namespace CurrencyExchange.Controllers
         }
 
         [HttpGet("rates")]
-        public async Task<IActionResult> GetRates([FromQuery] string baseCurrency = "USD")
+        public async Task<IActionResult> GetRates()
         {
-            if (string.IsNullOrEmpty(baseCurrency) || baseCurrency.Length != 3)
-            {
-                return BadRequest(new { error = "Invalid base currency" });
-            }
-
-            try
-            {
-                var rates = await _currencyService.GetExchangeRatesAsync(baseCurrency);
-                return Ok(rates);
-            }
-            catch (Exception ex)
-            {
-                return StatusCode(500, new { error = ex.Message });
-            }
+        try
+        {
+        var rates = await _currencyService.GetExchangeRatesAsync("EUR");
+        return Ok(rates);
+        }
+        catch (Exception ex)
+        {
+            return StatusCode(500, new { error = ex.Message });
+        }
         }
 
         [Authorize]

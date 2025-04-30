@@ -48,17 +48,11 @@
         </section>
         
         <section id="rates" class="card">
-            <h2>Current Exchange Rates</h2>
-            <div class="rate-controls">
-                <div class="input-group">
-                    <label for="baseCurrency">Base Currency</label>
-                    <select id="baseCurrency"></select>
-                </div>
-                <button onclick="getExchangeRates()">Update Rates</button>
-            </div>
+            <h2>EUR Exchange Rates</h2>
             <div class="rates-container">
                 <div id="ratesLoading" class="loading">Loading rates...</div>
                 <div id="ratesList" class="rates-list"></div>
+                <button onclick="getExchangeRates()" class="refresh-btn">Refresh Rates</button>
             </div>
         </section>
         
