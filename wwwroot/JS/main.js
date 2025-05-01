@@ -85,7 +85,10 @@ async function convertCurrency() {
     try {
         const response = await fetch('/api/convert', {
             method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
+            headers: { 
+                'Content-Type': 'application/json',
+                'X-Api-Version': '1.0' 
+            },
             body: JSON.stringify({ from, to, amount: parseFloat(amount) })
         });
         
