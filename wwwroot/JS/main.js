@@ -1,5 +1,4 @@
 let currencies = [];
-let favorites = [];
 
 document.addEventListener('DOMContentLoaded', () => {
     verifyAuth();
@@ -7,7 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(() => {
             populateCurrencySelects();
             getExchangeRates();
-            loadFavorites();
         });
 });
 
@@ -52,7 +50,6 @@ function populateCurrencySelects() {
     const selects = [
         document.getElementById('fromCurrency'),
         document.getElementById('toCurrency'),
-        document.getElementById('newFavorite')
     ];
     
     currencies.sort((a, b) => a.code.localeCompare(b.code));

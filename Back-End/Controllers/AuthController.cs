@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CurrencyExchange.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("Auth")]
     public class AuthController : ControllerBase
     {
         private readonly IUserService _userService;
