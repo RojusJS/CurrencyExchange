@@ -58,7 +58,7 @@ namespace CurrencyExchange.Services
             }
         }
 
-        public async Task<ExchangeRate> GetExchangeRatesAsync(string baseCurrency = "USD")
+        public async Task<ExchangeRate> GetExchangeRatesAsync(string baseCurrency = "EUR")
         {
             try
             {
@@ -114,22 +114,6 @@ namespace CurrencyExchange.Services
                     { "CAD", 1.25m },
                     { "AUD", 1.35m }
                 };
-                
-                if (baseCurrency != "USD")
-                {
-                    var newRates = new Dictionary<string, decimal>();
-                    newRates["USD"] = 1.0m / rates.GetValueOrDefault(baseCurrency, 1.0m);
-                    
-                    foreach (var pair in rates)
-                    {
-                        if (pair.Key != baseCurrency)
-                        {
-                            newRates[pair.Key] = pair.Value / rates.GetValueOrDefault(baseCurrency, 1.0m);
-                        }
-                    }
-                    
-                    rates = newRates;
-                }
                 
                 return new ExchangeRate
                 {

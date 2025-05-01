@@ -30,9 +30,3 @@ const login = () => {
         errorMessage.textContent = error.message;
     });
 };
-
-document.getElementById('passwordInput').addEventListener('keydown', (event) => {
-    if (event.key === 'Enter') {
-        login();
-    }
-});
